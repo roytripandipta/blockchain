@@ -36,6 +36,10 @@
 <a href="https://bitcoin.stackexchange.com/questions/35448/is-it-chain-of-headers-rather-than-a-chain-of-blocks">Is It Chain of Headers Rather Than a Chain of Blocks?<a/>
   
 <a href="https://www.cryptocompare.com/coins/guides/what-is-a-block-header-in-bitcoin/">What is a Block Header in Bitcoin?<a/>
+  
+<a href= "https://arxiv.org/pdf/1706.01730.pdf">Blockchain Based Trust & Authentication For Decentralized Sensor Networks<a/>
+  
+<a href="https://www.ted.com/talks/bettina_warburg_how_the_blockchain_will_radically_transform_the_economy?utm_campaign=tedspread--b&utm_medium=referral&utm_source=tedcomshare">How the Blockchain will Radically Transform the Economy<a/>
 
 
  
