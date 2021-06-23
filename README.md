@@ -16,7 +16,9 @@
 
 <a href="https://ethdocs.org/en/latest/account-management.html"> Account Management<a/> <br/>
   
-  <a href="https://www.coindesk.com/learn/ethereum-101/how-ethereum-works"> How ethereum works?<a/>
+  <a href="https://www.coindesk.com/learn/ethereum-101/how-ethereum-works"> How ethereum works?<a/> <br/>
 
-  <a href="https://ethereum.stackexchange.com/questions/3/what-is-meant-by-the-term-gas"> What is meant by gas in transaction?<a/>
+  <a href="https://ethereum.stackexchange.com/questions/3/what-is-meant-by-the-term-gas"> What is meant by gas in transaction?<a/><br/>
+    
+   <a href="https://blockgeeks.com/guides/proof-of-work-vs-proof-of-stake/">Proof of Work vs Proof of Stake: Basic Mining Guide</a>
  
