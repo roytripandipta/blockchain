@@ -24,7 +24,7 @@
     
     <a href="https://www.globalsign.com/en/ssl-information-center/what-is-public-key-cryptography">Public key cryptography<a/><br/>
       
-  <a href="https://searchsecurity.techtarget.com/definition/asymmetric-cryptography">Asymmetric Cryptography (Public-Key Cryptography)<a/><br/>
+  <a href="https://searchsecurity.techtarget.com/definition/asymmetric-cryptography"> Asymmetric Cryptography (Public-Key Cryptography)<a/> <br/>
     
     <a href="https://www.youtube.com/watch?v=GSIDS_lvRv4">Public Key Cryptography - Computerphile<a/><br/>
  
