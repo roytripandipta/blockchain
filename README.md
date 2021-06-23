@@ -11,3 +11,9 @@
 <a href="https://docs.soliditylang.org/en/develop/introduction-to-smart-contracts.html">Introduction to Smart Contracts</a> <br/>
 
 <a href="https://ethdocs.org/en/latest/introduction/what-is-ethereum.html">What is ethereum ? <a/><br/>
+  
+<a href="https://ethereum.org/en/whitepaper/"> Ethreum whitepaper<a/><br/>
+
+<a href="https://ethdocs.org/en/latest/account-management.html"> Account Management<a/> <br/>
+
+ 
