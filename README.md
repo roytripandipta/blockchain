@@ -1,5 +1,6 @@
 # blockchain
 <a href = "https://bitcoin.org/bitcoin.pdf"> bitcoin </a> <br/>
+
 <a href = "https://smithandcrown.com/glossary/unspent-transaction-outputs-utxo/"> Unspent Transaction Output, UTXO </a> <br/>
 
 <a href = "https://www.ccn.com/bitcoin-cash-pools-the-majority-of-bitcoin-sv-blocks-are-mined-by-unknown-yes-really/"> How a bitcoin works! </a> <br/>
@@ -27,5 +28,9 @@
 <a href="https://searchsecurity.techtarget.com/definition/asymmetric-cryptography"> Asymmetric Cryptography (Public-Key Cryptography)<a/> <br/>
     
 <a href="https://www.youtube.com/watch?v=GSIDS_lvRv4">Public Key Cryptography - Computerphile<a/><br/>
+  
+<a href="https://blockgeeks.com/guides/what-is-hashing/"> What Is Hashing? Under The Hood of Blockchain</a>
+  
+<a href="https://www.youtube.com/watch?v=DMtFhACPnTY"> Secure Hashing Algorithm<a/>
  
  
