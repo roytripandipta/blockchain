@@ -33,5 +33,9 @@
   
 <a href="https://www.youtube.com/watch?v=DMtFhACPnTY"> Secure Hashing Algorithm<a/>
 
+<a href="https://bitcoin.stackexchange.com/questions/35448/is-it-chain-of-headers-rather-than-a-chain-of-blocks">Is It Chain of Headers Rather Than a Chain of Blocks?<a/>
+  
+<a href="https://www.cryptocompare.com/coins/guides/what-is-a-block-header-in-bitcoin/">What is a Block Header in Bitcoin?<a/>
+
 
  
