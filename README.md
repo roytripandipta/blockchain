@@ -16,16 +16,16 @@
 
 <a href="https://ethdocs.org/en/latest/account-management.html"> Account Management<a/> <br/>
   
-  <a href="https://www.coindesk.com/learn/ethereum-101/how-ethereum-works"> How ethereum works?<a/> <br/>
+<a href="https://www.coindesk.com/learn/ethereum-101/how-ethereum-works"> How ethereum works?<a/> <br/>
 
-  <a href="https://ethereum.stackexchange.com/questions/3/what-is-meant-by-the-term-gas"> What is meant by gas in transaction?<a/><br/>
+<a href="https://ethereum.stackexchange.com/questions/3/what-is-meant-by-the-term-gas"> What is meant by gas in transaction?<a/><br/>
     
-   <a href="https://blockgeeks.com/guides/proof-of-work-vs-proof-of-stake/">Proof of Work vs Proof of Stake: Basic Mining Guide</a><br/>
+<a href="https://blockgeeks.com/guides/proof-of-work-vs-proof-of-stake/">Proof of Work vs Proof of Stake: Basic Mining Guide</a><br/>
     
-    <a href="https://www.globalsign.com/en/ssl-information-center/what-is-public-key-cryptography">Public key cryptography<a/><br/>
+<a href="https://www.globalsign.com/en/ssl-information-center/what-is-public-key-cryptography">Public key cryptography<a/><br/>
       
-  <a href="https://searchsecurity.techtarget.com/definition/asymmetric-cryptography"> Asymmetric Cryptography (Public-Key Cryptography)<a/> <br/>
+<a href="https://searchsecurity.techtarget.com/definition/asymmetric-cryptography"> Asymmetric Cryptography (Public-Key Cryptography)<a/> <br/>
     
-    <a href="https://www.youtube.com/watch?v=GSIDS_lvRv4">Public Key Cryptography - Computerphile<a/><br/>
+<a href="https://www.youtube.com/watch?v=GSIDS_lvRv4">Public Key Cryptography - Computerphile<a/><br/>
  
  
