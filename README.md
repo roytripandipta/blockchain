@@ -40,6 +40,10 @@
 <a href= "https://arxiv.org/pdf/1706.01730.pdf">Blockchain Based Trust & Authentication For Decentralized Sensor Networks<a/>
   
 <a href="https://www.ted.com/talks/bettina_warburg_how_the_blockchain_will_radically_transform_the_economy?utm_campaign=tedspread--b&utm_medium=referral&utm_source=tedcomshare">How the Blockchain will Radically Transform the Economy<a/>
+  
+<a href="https://www.coindesk.com/short-guide-blockchain-consensus-protocols">A (Short) Guide to Blockchain Consensus Protocols<a/>
+  
+<a href="https://www.youtube.com/watch?v=hYip_Vuv8J0">Blockchain Expert Explains One Concept in 5 Levels of Difficulty | WIRED<a/>
 
 
  
