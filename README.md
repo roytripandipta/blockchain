@@ -15,5 +15,8 @@
 <a href="https://ethereum.org/en/whitepaper/"> Ethreum whitepaper<a/><br/>
 
 <a href="https://ethdocs.org/en/latest/account-management.html"> Account Management<a/> <br/>
+  
+  <a href="https://www.coindesk.com/learn/ethereum-101/how-ethereum-works"> How ethereum works?<a/>
 
+  <a href="https://ethereum.stackexchange.com/questions/3/what-is-meant-by-the-term-gas"> What is meant by gas in transaction?<a/>
  
