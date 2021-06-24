@@ -46,6 +46,10 @@
 <a href="https://www.youtube.com/watch?v=hYip_Vuv8J0">Blockchain Expert Explains One Concept in 5 Levels of Difficulty | WIRED<a/>
   
 <a href="https://ethereumbuilders.gitbooks.io/guide/content/en/solidity_tutorials.html">Solidity Tutorial<a/>
+  
+<a href="https://medium.com/blockchannel/the-use-of-revert-assert-and-require-in-solidity-and-the-new-revert-opcode-in-the-evm-1a3a7990e06e">require assert in solidity<a/>
+  
+    
 
 
  
