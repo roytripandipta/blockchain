@@ -44,6 +44,8 @@
 <a href="https://www.coindesk.com/short-guide-blockchain-consensus-protocols">A (Short) Guide to Blockchain Consensus Protocols<a/>
   
 <a href="https://www.youtube.com/watch?v=hYip_Vuv8J0">Blockchain Expert Explains One Concept in 5 Levels of Difficulty | WIRED<a/>
+  
+<a href="https://ethereumbuilders.gitbooks.io/guide/content/en/solidity_tutorials.html">Solidity Tutorial<a/>
 
 
  
