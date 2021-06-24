@@ -49,6 +49,10 @@
   
 <a href="https://medium.com/blockchannel/the-use-of-revert-assert-and-require-in-solidity-and-the-new-revert-opcode-in-the-evm-1a3a7990e06e">require assert in solidity<a/>
   
+<a href="https://media.consensys.net/technical-introduction-to-events-and-logs-in-ethereum-a074d65dd61e">technical introduction<a/> 
+  
+<a href="https://www.youtube.com/watch?v=L5Au5DY8eL4"> Capturing Smart Contract Events in our User Interface (Solidity)<a/>
+  
     
 
 
